@@ -18,7 +18,7 @@ namespace DataTableToCSV
             callSP2();
             GetCSV2();
             button1.Text = "GENERATE CSV";
-            MessageBox.Show("Done!");
+            MessageBox.Show("ok Done!");
 
         }
 
